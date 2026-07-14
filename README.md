@@ -18,7 +18,7 @@ The client provides a fully responsive React + TypeScript application for users 
 
 ## 🔗 Live URL
 
-- **Frontend:** [https://shopnest-client.vercel.app](https://shopnest-client.vercel.app)
+- **Frontend:** [https://shopnest-client.vercel.app](https://shopnest-client-nine.vercel.app/)
 
 ---
 
